@@ -1,0 +1,14 @@
+# epl_batch
+epl batch
+
+
+^XA
+^PON
+^FO220,20^BQN,2,3.5^FDLA,https://script.google.com/macros/s/AKfycbzuV7k_VXlHt3922DziqnFPV-ZzxZtur0Coij7EOAZwkT11t_ukiFt_DHdyU25qCrSh/exec?ID=usuario&equipoID=HST-20CAAR013^FS
+^FO410,45^A0N,24,24^FDINVENTARIO^FS
+^FO410,80^A0N,24,24^FDEQUIPO^FS
+^FO410,115^A0N,24,24^FDMEDICO   2025^FS
+^FO410,180^A0N,24,24^FDHST-20CAAR013^FS
+^XZ
+
+
